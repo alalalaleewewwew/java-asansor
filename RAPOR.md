@@ -5,7 +5,7 @@
 
 ## 1. Problemin Açıklaması
 <!-- Problemi kendi cümlelerinizle yazın. -->
-WASDASSDA
+Kat sorma
 
 ## 2. Girdi - İşlem - Çıktı
 
